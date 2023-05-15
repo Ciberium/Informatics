@@ -2,7 +2,9 @@
 #include <vector>
 using namespace std;
 
-int countPermutations=1;
+
+int countPermutations=2;
+
 
 void printPath(vector<int> &path) {
     cout << "0";

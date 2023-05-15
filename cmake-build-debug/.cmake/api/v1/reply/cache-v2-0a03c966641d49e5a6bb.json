@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Clion projects/untitled17/cmake-build-debug"
+			"value" : "c:/Clion projects/task_17/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Clion projects/untitled17"
+			"value" : "C:/Clion projects/task_17"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Clion projects/untitled17/cmake-build-debug"
+			"value" : "C:/Clion projects/task_17/cmake-build-debug"
 		},
 		{
 			"name" : "untitled17_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Clion projects/untitled17"
+			"value" : "C:/Clion projects/task_17"
 		}
 	],
 	"kind" : "cache",
